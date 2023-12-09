@@ -5,7 +5,6 @@
 ### Menjalankan MySQL server
 Untuk menjalankan MySQL Server dari menu XAMPP Contol.
 
-![ss1](/image/ss1.png)
 ### Mengakses MySQL Client menggunakan PHP MyAdmin
 Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka
 melalui browser: http://localhost/phpmyadmin/
